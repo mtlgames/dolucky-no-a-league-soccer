@@ -41,7 +41,7 @@ Known issues: none known; [report one](../../issues/new/choose).
 ## Build your own patched ROM
 
 Needs Python 3.12+ (pytest for the checks), the
-[translate-retro-game](https://github.com/minhnhattonthat/translate-retro-game) skill (set `SKILL` to the directory
+[translate-retro-game](https://github.com/mtlgames/translate-retro-game) skill (set `SKILL` to the directory
 holding its SKILL.md) and your own dump of the Japanese game.
 
 ```sh
